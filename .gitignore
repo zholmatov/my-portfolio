@@ -1,7 +1,11 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+
+# submitten murun node_modules dagy back slashty alyp saldym 
+# because we do not want push everything into github, there were 5k dependencies, but now its 23
+
+node_modules
 /.pnp
 .pnp.js
 
