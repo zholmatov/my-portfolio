@@ -1,4 +1,4 @@
-import sanityClient from 'sanity/client'
+import sanityClient from '@sanity/client';
 //to connect react with sanity
 // thus we need project id for this
 
